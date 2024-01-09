@@ -1,2 +1,3 @@
 # Pygame
-Christmas Holidays Homeworks:Create a game using the pygame plug-in.
+Christmas Holidays Homeworks: 
+Create a game using the pygame plug-in.
